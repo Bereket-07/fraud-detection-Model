@@ -1,0 +1,117 @@
+2024-10-18 19:49:31,092 - INFO - loading the data
+2024-10-18 19:50:02,733 - INFO - loading the data
+2024-10-18 19:50:03,116 - INFO - loading the data
+2024-10-18 19:51:07,674 - INFO - data set overview
+2024-10-18 19:51:07,676 - INFO - description of the data set
+2024-10-18 19:51:07,742 - INFO - data type of the data frame columns :
+2024-10-18 19:51:07,742 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 19:51:07,742 - INFO - data set overview
+2024-10-18 19:51:07,742 - INFO - description of the data set
+2024-10-18 19:51:07,773 - INFO - data type of the data frame columns :
+2024-10-18 19:51:07,776 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 19:53:01,261 - INFO - displying the missing values is there is any
+2024-10-18 19:53:01,309 - INFO - displying the missing values is there is any
+2024-10-18 19:54:54,553 - INFO - cleaning the data
+2024-10-18 19:54:54,555 - INFO - removing the duplicatged values
+2024-10-18 19:54:54,778 - INFO - correcting the data dypes
+2024-10-18 19:54:54,786 - INFO - cleaning the data
+2024-10-18 19:54:54,786 - INFO - removing the duplicatged values
+2024-10-18 19:54:54,828 - INFO - correcting the data dypes
+2024-10-18 19:55:28,781 - INFO - cleaning the data
+2024-10-18 19:55:28,781 - INFO - removing the duplicatged values
+2024-10-18 19:55:28,995 - INFO - correcting the data dypes
+2024-10-18 19:55:29,010 - INFO - cleaning the data
+2024-10-18 19:55:29,010 - INFO - removing the duplicatged values
+2024-10-18 19:55:29,055 - INFO - correcting the data dypes
+2024-10-18 19:56:29,448 - INFO - Starting full Exploratory Data Analysis (EDA)
+2024-10-18 19:56:29,450 - INFO - Performing univariate analysis on numerical columns
+2024-10-18 19:56:36,355 - INFO - Plotting histogram for user_id
+2024-10-18 19:56:37,509 - INFO - Plotting boxplot for user_id
+2024-10-18 19:56:39,729 - INFO - Plotting histogram for purchase_value
+2024-10-18 19:56:41,247 - INFO - Plotting boxplot for purchase_value
+2024-10-18 19:56:41,791 - INFO - Plotting histogram for age
+2024-10-18 19:56:43,394 - INFO - Plotting boxplot for age
+2024-10-18 19:56:43,840 - INFO - Plotting histogram for ip_address
+2024-10-18 19:56:45,006 - INFO - Plotting boxplot for ip_address
+2024-10-18 19:56:45,423 - INFO - Plotting histogram for class
+2024-10-18 19:56:46,473 - INFO - Plotting boxplot for class
+2024-10-18 19:56:46,980 - INFO - Performing univariate analysis on categorical columns
+2024-10-18 19:56:47,001 - INFO - Plotting countplot for signup_time
+2024-10-18 19:56:57,000 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 19:57:05,920 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:37:25,843 - INFO - loading the data
+2024-10-18 20:37:26,290 - INFO - loading the data
+2024-10-18 20:37:26,381 - INFO - data set overview
+2024-10-18 20:37:26,381 - INFO - description of the data set
+2024-10-18 20:37:26,452 - INFO - data type of the data frame columns :
+2024-10-18 20:37:26,455 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:37:26,456 - INFO - data set overview
+2024-10-18 20:37:26,458 - INFO - description of the data set
+2024-10-18 20:37:26,472 - INFO - data type of the data frame columns :
+2024-10-18 20:37:26,472 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:37:26,500 - INFO - displying the missing values is there is any
+2024-10-18 20:37:26,550 - INFO - displying the missing values is there is any
+2024-10-18 20:37:26,572 - INFO - cleaning the data
+2024-10-18 20:37:26,576 - INFO - removing the duplicatged values
+2024-10-18 20:37:26,793 - INFO - correcting the data dypes
+2024-10-18 20:37:26,805 - INFO - cleaning the data
+2024-10-18 20:37:26,806 - INFO - removing the duplicatged values
+2024-10-18 20:37:26,856 - INFO - correcting the data dypes
+2024-10-18 20:37:26,876 - INFO - Starting full Exploratory Data Analysis (EDA)
+2024-10-18 20:37:26,879 - INFO - Performing univariate analysis on numerical columns
+2024-10-18 20:37:26,913 - INFO - Plotting histogram for user_id
+2024-10-18 20:37:28,151 - INFO - Plotting boxplot for user_id
+2024-10-18 20:37:28,819 - INFO - Plotting histogram for purchase_value
+2024-10-18 20:37:30,891 - INFO - Plotting boxplot for purchase_value
+2024-10-18 20:37:31,544 - INFO - Plotting histogram for age
+2024-10-18 20:37:33,409 - INFO - Plotting boxplot for age
+2024-10-18 20:37:34,040 - INFO - Plotting histogram for ip_address
+2024-10-18 20:37:35,424 - INFO - Plotting boxplot for ip_address
+2024-10-18 20:37:35,995 - INFO - Plotting histogram for class
+2024-10-18 20:37:37,471 - INFO - Plotting boxplot for class
+2024-10-18 20:37:37,960 - INFO - Performing univariate analysis on categorical columns
+2024-10-18 20:37:37,972 - INFO - Plotting countplot for signup_time
+2024-10-18 20:37:47,686 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:37:57,075 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:41:17,794 - INFO - loading the data
+2024-10-18 20:41:18,247 - INFO - loading the data
+2024-10-18 20:41:18,346 - INFO - data set overview
+2024-10-18 20:41:18,346 - INFO - description of the data set
+2024-10-18 20:41:18,393 - INFO - data type of the data frame columns :
+2024-10-18 20:41:18,393 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:41:18,409 - INFO - data set overview
+2024-10-18 20:41:18,409 - INFO - description of the data set
+2024-10-18 20:41:18,428 - INFO - data type of the data frame columns :
+2024-10-18 20:41:18,428 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:41:18,441 - INFO - displying the missing values is there is any
+2024-10-18 20:41:18,492 - INFO - displying the missing values is there is any
+2024-10-18 20:41:18,513 - INFO - cleaning the data
+2024-10-18 20:41:18,515 - INFO - removing the duplicatged values
+2024-10-18 20:41:18,719 - INFO - correcting the data dypes
+2024-10-18 20:41:18,730 - INFO - cleaning the data
+2024-10-18 20:41:18,730 - INFO - removing the duplicatged values
+2024-10-18 20:41:18,780 - INFO - correcting the data dypes
+2024-10-18 20:41:18,809 - INFO - Starting full Exploratory Data Analysis (EDA)
+2024-10-18 20:41:18,812 - INFO - Performing univariate analysis on numerical columns
+2024-10-18 20:41:18,849 - INFO - Plotting histogram for user_id
+2024-10-18 20:41:20,080 - INFO - Plotting boxplot for user_id
+2024-10-18 20:41:20,533 - INFO - Plotting histogram for purchase_value
+2024-10-18 20:41:22,013 - INFO - Plotting boxplot for purchase_value
+2024-10-18 20:41:22,446 - INFO - Plotting histogram for age
+2024-10-18 20:41:23,796 - INFO - Plotting boxplot for age
+2024-10-18 20:41:24,279 - INFO - Plotting histogram for ip_address
+2024-10-18 20:41:25,312 - INFO - Plotting boxplot for ip_address
+2024-10-18 20:41:25,716 - INFO - Plotting histogram for class
+2024-10-18 20:41:26,762 - INFO - Plotting boxplot for class
+2024-10-18 20:41:27,193 - INFO - Performing univariate analysis on categorical columns
+2024-10-18 20:41:27,396 - INFO - Plotting countplot for device_id
+2024-10-18 20:49:55,905 - INFO - Performing univariate analysis for datetime features
+2024-10-18 20:49:56,082 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:56,189 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:56,435 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:56,590 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:57,131 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:57,264 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:57,502 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:57,630 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:57,910 - INFO - Performing univariate analysis for datetime features
