@@ -4,3 +4,7 @@
 2024-10-18 20:37:26,472 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
 2024-10-18 20:41:18,393 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
 2024-10-18 20:41:18,428 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-21 19:38:15,444 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-21 19:38:15,473 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-21 19:54:05,966 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: '..data/mergeddf.csv'
+2024-10-21 19:54:05,966 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: '..data/mergeddf.csv'

@@ -115,3 +115,51 @@
 2024-10-18 20:49:57,502 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-10-18 20:49:57,630 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-10-18 20:49:57,910 - INFO - Performing univariate analysis for datetime features
+2024-10-21 19:38:14,739 - INFO - loading the data
+2024-10-21 19:38:15,233 - INFO - loading the data
+2024-10-21 19:38:15,356 - INFO - data set overview
+2024-10-21 19:38:15,358 - INFO - description of the data set
+2024-10-21 19:38:15,441 - INFO - data type of the data frame columns :
+2024-10-21 19:38:15,444 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-21 19:38:15,446 - INFO - data set overview
+2024-10-21 19:38:15,448 - INFO - description of the data set
+2024-10-21 19:38:15,471 - INFO - data type of the data frame columns :
+2024-10-21 19:38:15,473 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-21 19:38:15,488 - INFO - displying the missing values is there is any
+2024-10-21 19:38:15,540 - INFO - displying the missing values is there is any
+2024-10-21 19:38:15,564 - INFO - cleaning the data
+2024-10-21 19:38:15,567 - INFO - removing the duplicatged values
+2024-10-21 19:38:15,868 - INFO - correcting the data dypes
+2024-10-21 19:38:15,874 - INFO - cleaning the data
+2024-10-21 19:38:15,876 - INFO - removing the duplicatged values
+2024-10-21 19:38:15,923 - INFO - correcting the data dypes
+2024-10-21 19:38:15,939 - INFO - Starting full Exploratory Data Analysis (EDA)
+2024-10-21 19:38:15,941 - INFO - Performing univariate analysis on numerical columns
+2024-10-21 19:38:16,005 - INFO - Plotting histogram for user_id
+2024-10-21 19:38:17,170 - INFO - Plotting boxplot for user_id
+2024-10-21 19:38:17,780 - INFO - Plotting histogram for purchase_value
+2024-10-21 19:38:19,565 - INFO - Plotting boxplot for purchase_value
+2024-10-21 19:38:19,950 - INFO - Plotting histogram for age
+2024-10-21 19:38:21,287 - INFO - Plotting boxplot for age
+2024-10-21 19:38:21,712 - INFO - Plotting histogram for ip_address
+2024-10-21 19:38:22,685 - INFO - Plotting boxplot for ip_address
+2024-10-21 19:38:23,174 - INFO - Plotting histogram for class
+2024-10-21 19:38:24,561 - INFO - Plotting boxplot for class
+2024-10-21 19:38:24,923 - INFO - Performing univariate analysis on categorical columns
+2024-10-21 19:38:25,092 - INFO - Plotting countplot for device_id
+2024-10-21 19:43:47,508 - INFO - Performing univariate analysis for datetime features
+2024-10-21 19:43:47,708 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:47,783 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:47,977 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,041 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,399 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,472 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,647 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,708 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,928 - INFO - Performing univariate analysis for datetime features
+2024-10-21 19:54:05,962 - INFO - loading the data
+2024-10-21 19:54:05,962 - INFO - loading the data
+2024-10-21 19:54:05,966 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: '..data/mergeddf.csv'
+2024-10-21 19:54:05,966 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: '..data/mergeddf.csv'
+2024-10-21 19:54:13,444 - INFO - loading the data
+2024-10-21 19:54:13,444 - INFO - loading the data
