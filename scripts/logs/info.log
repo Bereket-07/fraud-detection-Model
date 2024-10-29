@@ -1,0 +1,94 @@
+2024-10-28 21:56:01,231 - INFO - loading the data
+2024-10-28 21:58:35,463 - INFO - loading the data
+2024-10-28 22:01:34,938 - INFO - feature and target
+2024-10-28 22:01:34,941 - INFO - creadit card feature separation
+2024-10-28 22:01:34,980 - INFO - fraud data target separation
+2024-10-28 22:01:34,980 - INFO - error occured : {e}
+2024-10-28 22:02:14,377 - INFO - feature and target
+2024-10-28 22:02:14,380 - INFO - creadit card feature separation
+2024-10-28 22:02:14,470 - INFO - fraud data target separation
+2024-10-28 22:02:14,483 - INFO - error occured : {e}
+2024-10-28 22:02:38,892 - INFO - feature and target
+2024-10-28 22:02:38,893 - INFO - creadit card feature separation
+2024-10-28 22:02:38,926 - INFO - fraud data target separation
+2024-10-28 22:02:38,928 - INFO - error occured : {e}
+2024-10-28 22:02:53,883 - INFO - feature and target
+2024-10-28 22:02:53,890 - INFO - creadit card feature separation
+2024-10-28 22:02:53,928 - INFO - fraud data target separation
+2024-10-28 22:02:53,932 - INFO - error occured : {e}
+2024-10-28 22:03:07,155 - INFO - feature and target
+2024-10-28 22:03:07,160 - INFO - creadit card feature separation
+2024-10-28 22:03:07,185 - INFO - fraud data target separation
+2024-10-28 22:03:07,190 - INFO - error occured : {e}
+2024-10-28 22:03:23,400 - INFO - loading the data
+2024-10-28 22:03:25,800 - INFO - loading the data
+2024-10-28 22:03:26,042 - INFO - feature and target
+2024-10-28 22:03:26,042 - INFO - creadit card feature separation
+2024-10-28 22:03:26,071 - INFO - fraud data target separation
+2024-10-28 22:03:26,076 - INFO - error occured : "['class'] not found in axis"
+2024-10-28 22:10:00,768 - INFO - loading the data
+2024-10-28 22:10:03,460 - INFO - loading the data
+2024-10-28 22:10:04,328 - INFO - feature and target
+2024-10-28 22:10:04,330 - INFO - creadit card feature separation
+2024-10-28 22:10:04,359 - INFO - fraud data target separation
+2024-10-28 22:10:14,578 - INFO - feature and target
+2024-10-28 22:10:14,579 - INFO - creadit card feature separation
+2024-10-28 22:10:14,624 - INFO - fraud data target separation
+2024-10-28 22:11:55,668 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 22:11:55,675 - INFO - spliting the credit card data into train test 
+2024-10-28 22:11:55,677 - ERROR - error occured : train_test_split() got an unexpected keyword argument 'test_size'
+2024-10-28 22:13:35,916 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 22:13:35,916 - INFO - spliting the credit card data into train test 
+2024-10-28 22:13:35,916 - ERROR - error occured : train_test_split() got an unexpected keyword argument 'test_size'
+2024-10-28 22:20:04,821 - INFO - loading the data
+2024-10-28 22:20:06,877 - INFO - loading the data
+2024-10-28 22:20:07,598 - INFO - feature and target
+2024-10-28 22:20:07,600 - INFO - creadit card feature separation
+2024-10-28 22:20:07,628 - INFO - fraud data target separation
+2024-10-28 22:20:07,667 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 22:20:07,670 - INFO - spliting the credit card data into train test 
+2024-10-28 22:20:07,804 - INFO - spliting the fraud data into train and test
+2024-10-28 22:21:56,540 - INFO - training the model and evaluating there performance
+2024-10-28 22:21:56,543 - INFO - defining the models
+2024-10-28 22:21:56,544 - INFO - Training and evaluating each model
+2024-10-28 23:18:52,801 - INFO - training the model and evaluating there performance
+2024-10-28 23:18:52,804 - INFO - defining the models
+2024-10-28 23:18:52,804 - INFO - Training and evaluating each model
+2024-10-28 23:18:53,103 - ERROR - error occured : could not convert string to float: '2015-05-11 01:10:38'
+2024-10-28 23:26:18,424 - INFO - loading the data
+2024-10-28 23:29:57,942 - INFO - loading the data
+2024-10-28 23:29:57,942 - INFO - loading the data
+2024-10-28 23:30:24,681 - INFO - feature and target
+2024-10-28 23:30:24,681 - INFO - feature and target
+2024-10-28 23:30:24,682 - INFO - fraud data target separation
+2024-10-28 23:30:24,682 - INFO - fraud data target separation
+2024-10-28 23:31:15,577 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 23:31:15,577 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 23:31:15,582 - INFO - spliting the fraud data into train and test
+2024-10-28 23:31:15,582 - INFO - spliting the fraud data into train and test
+2024-10-28 23:31:49,956 - INFO - Training the model and evaluating their performance
+2024-10-28 23:31:49,956 - INFO - Training the model and evaluating their performance
+2024-10-28 23:31:49,956 - INFO - Defining the preprocessing steps
+2024-10-28 23:31:49,956 - INFO - Defining the preprocessing steps
+2024-10-28 23:31:49,956 - INFO - Defining the models
+2024-10-28 23:31:49,956 - INFO - Defining the models
+2024-10-28 23:31:49,961 - INFO - Training and evaluating each model
+2024-10-28 23:31:49,961 - INFO - Training and evaluating each model
+2024-10-28 23:31:49,961 - INFO - Training Logistic Regression
+2024-10-28 23:31:49,961 - INFO - Training Logistic Regression
+2024-10-28 23:31:50,031 - ERROR - Error occurred: fill_value='missing' (of type <class 'str'>) cannot be cast to the input data that is dtype('float64'). Make sure that both dtypes are of the same kind.
+2024-10-28 23:31:50,031 - ERROR - Error occurred: fill_value='missing' (of type <class 'str'>) cannot be cast to the input data that is dtype('float64'). Make sure that both dtypes are of the same kind.
+2024-10-28 23:33:33,047 - INFO - loading the data
+2024-10-28 23:33:34,814 - INFO - feature and target
+2024-10-28 23:33:34,819 - INFO - fraud data target separation
+2024-10-28 23:33:34,881 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 23:33:34,886 - INFO - spliting the fraud data into train and test
+2024-10-28 23:33:35,080 - INFO - Training the model and evaluating their performance
+2024-10-28 23:33:35,084 - INFO - Defining the preprocessing steps
+2024-10-28 23:33:36,723 - INFO - Defining the models
+2024-10-28 23:33:36,727 - INFO - Training and evaluating each model
+2024-10-28 23:33:36,731 - INFO - Training Logistic Regression
+2024-10-28 23:33:39,187 - INFO - Training Decision Tree
+2024-10-28 23:33:43,827 - INFO - Training Random Forest
+2024-10-28 23:34:23,703 - INFO - Training Gradient Boosting
+2024-10-28 23:34:56,459 - INFO - Training Multi-Layer Perception
