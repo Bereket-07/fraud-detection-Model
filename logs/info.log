@@ -556,3 +556,31 @@
 2024-10-29 21:02:25,859 - INFO - loading the model for the model explainability
 2024-10-29 21:02:25,873 - ERROR - error occurred while explaining model: 'RandomForestClassifier' object has no attribute 'named_steps'
 2024-10-29 21:02:25,873 - ERROR - error occurred while explaining model: 'RandomForestClassifier' object has no attribute 'named_steps'
+2024-10-29 21:06:56,648 - INFO - loading the data
+2024-10-29 21:06:56,648 - INFO - loading the data
+2024-10-29 21:06:59,413 - INFO - loading the data
+2024-10-29 21:06:59,413 - INFO - loading the data
+2024-10-29 21:07:00,283 - INFO - feature and target
+2024-10-29 21:07:00,283 - INFO - feature and target
+2024-10-29 21:07:00,285 - INFO - creadit card feature separation
+2024-10-29 21:07:00,285 - INFO - creadit card feature separation
+2024-10-29 21:07:00,318 - INFO - fraud data target separation
+2024-10-29 21:07:00,318 - INFO - fraud data target separation
+2024-10-29 21:07:00,349 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 21:07:00,349 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 21:07:00,351 - INFO - spliting the credit card data into train test 
+2024-10-29 21:07:00,351 - INFO - spliting the credit card data into train test 
+2024-10-29 21:07:00,444 - INFO - spliting the fraud data into train and test
+2024-10-29 21:07:00,444 - INFO - spliting the fraud data into train and test
+2024-10-29 21:07:00,565 - INFO - loading the model for the model explainability
+2024-10-29 21:07:00,565 - INFO - loading the model for the model explainability
+2024-10-29 21:19:12,985 - INFO - creating SHAP summary plot
+2024-10-29 21:19:12,985 - INFO - creating SHAP summary plot
+2024-10-29 21:39:50,760 - INFO - loading the model for the model explainability
+2024-10-29 21:39:50,760 - INFO - loading the model for the model explainability
+2024-10-29 21:50:01,001 - INFO - creating SHAP summary plot
+2024-10-29 21:50:01,001 - INFO - creating SHAP summary plot
+2024-10-29 21:50:39,297 - INFO - loading the model for the model explainability
+2024-10-29 21:50:39,297 - INFO - loading the model for the model explainability
+2024-10-29 22:02:12,358 - INFO - creating SHAP summary plot
+2024-10-29 22:02:12,358 - INFO - creating SHAP summary plot

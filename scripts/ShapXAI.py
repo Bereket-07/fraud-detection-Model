@@ -37,18 +37,21 @@ logger.setLevel(logging.INFO)
 logger.addHandler(info_handler)
 
 
+
 def explain_the_model(model, x_test):
     logger.info("loading the model for the model explainability")
     try:
-        # Create the explainer for the given model
-        explainer = shap.TreeExplainer(model)  # This is where the explainer is created
-        shap_values = explainer.shap_values(x_test)
+        # Transform x_test to the same scale and structure as the training data
+        # For RandomForestClassifier, no additional transformation is usually needed
+        # but ensure x_test is a DataFrame with the same features in the same order
+        shap_values = shap.TreeExplainer(model).shap_values(x_test)
 
         logger.info("creating SHAP summary plot")
         shap.summary_plot(shap_values, x_test)  # Use the correct shap_values
-        return explainer, shap_values  # Return both explainer and SHAP values
+        return shap_values
     except Exception as e:
         logger.error(f"error occurred while explaining model: {e}")
+
 
 
 def force_plot(explainer, shap_values, x_test, index=0):
