@@ -510,3 +510,49 @@
 2024-10-28 23:33:43,827 - INFO - Training Random Forest
 2024-10-28 23:34:23,703 - INFO - Training Gradient Boosting
 2024-10-28 23:34:56,459 - INFO - Training Multi-Layer Perception
+2024-10-29 20:32:09,571 - INFO - loading the data
+2024-10-29 20:32:09,571 - INFO - loading the data
+2024-10-29 20:32:40,737 - INFO - loading the data
+2024-10-29 20:32:40,737 - INFO - loading the data
+2024-10-29 20:32:40,738 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: 'final_fraud_data.csv'
+2024-10-29 20:32:40,738 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: 'final_fraud_data.csv'
+2024-10-29 20:32:49,415 - INFO - loading the data
+2024-10-29 20:32:49,415 - INFO - loading the data
+2024-10-29 20:33:04,191 - INFO - feature and target
+2024-10-29 20:33:04,191 - INFO - feature and target
+2024-10-29 20:33:04,192 - INFO - creadit card feature separation
+2024-10-29 20:33:04,192 - INFO - creadit card feature separation
+2024-10-29 20:33:04,236 - INFO - fraud data target separation
+2024-10-29 20:33:04,236 - INFO - fraud data target separation
+2024-10-29 20:33:15,981 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 20:33:15,981 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 20:33:15,982 - INFO - spliting the credit card data into train test 
+2024-10-29 20:33:15,982 - INFO - spliting the credit card data into train test 
+2024-10-29 20:33:16,070 - INFO - spliting the fraud data into train and test
+2024-10-29 20:33:16,070 - INFO - spliting the fraud data into train and test
+2024-10-29 20:35:33,205 - INFO - loading the model for the model explianbility
+2024-10-29 20:35:33,205 - INFO - loading the model for the model explianbility
+2024-10-29 20:47:39,219 - INFO - shap summary plots
+2024-10-29 20:47:39,219 - INFO - shap summary plots
+2024-10-29 20:47:39,231 - INFO - error occured while model explinaing The shape of the shap_values matrix does not match the shape of the provided data matrix.
+2024-10-29 20:47:39,231 - INFO - error occured while model explinaing The shape of the shap_values matrix does not match the shape of the provided data matrix.
+2024-10-29 21:02:22,115 - INFO - loading the data
+2024-10-29 21:02:22,115 - INFO - loading the data
+2024-10-29 21:02:24,688 - INFO - loading the data
+2024-10-29 21:02:24,688 - INFO - loading the data
+2024-10-29 21:02:25,517 - INFO - feature and target
+2024-10-29 21:02:25,517 - INFO - feature and target
+2024-10-29 21:02:25,519 - INFO - creadit card feature separation
+2024-10-29 21:02:25,519 - INFO - creadit card feature separation
+2024-10-29 21:02:25,549 - INFO - fraud data target separation
+2024-10-29 21:02:25,549 - INFO - fraud data target separation
+2024-10-29 21:02:25,581 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 21:02:25,581 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 21:02:25,584 - INFO - spliting the credit card data into train test 
+2024-10-29 21:02:25,584 - INFO - spliting the credit card data into train test 
+2024-10-29 21:02:25,729 - INFO - spliting the fraud data into train and test
+2024-10-29 21:02:25,729 - INFO - spliting the fraud data into train and test
+2024-10-29 21:02:25,859 - INFO - loading the model for the model explainability
+2024-10-29 21:02:25,859 - INFO - loading the model for the model explainability
+2024-10-29 21:02:25,873 - ERROR - error occurred while explaining model: 'RandomForestClassifier' object has no attribute 'named_steps'
+2024-10-29 21:02:25,873 - ERROR - error occurred while explaining model: 'RandomForestClassifier' object has no attribute 'named_steps'
